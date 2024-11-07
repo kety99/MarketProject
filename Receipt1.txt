@@ -1,0 +1,6 @@
+Receipt: 1
+Staff Name: Preslav
+Date: 2024-11-07T11:18:56.296829
+Items: Lutenica 3.12
+
+Total:3.12
